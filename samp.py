@@ -337,7 +337,7 @@ def run19():
 			print("[*] Down Kontol!!!")			
 			
 def run20():
-	data = random._urandom(20)
+	data = random._urandom(818)
 	i = random.choice(("[*]","[!]","[#]"))
 	while True:
 		try:
